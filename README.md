@@ -33,10 +33,11 @@ npm install --save-dev node-sass style-loader sass-loader
 # install floatlabels
 npm install --save vue-float-label
 
-#datepicker
+#datepicker ---> https://github.com/charliekassel/vuejs-datepicker
 npm install vuejs-datepicker --save
 
-#moment.js
+
+#moment.js --> https://momentjs.com/
 npm install moment --save 
 ```
 
